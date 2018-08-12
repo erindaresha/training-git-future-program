@@ -6,8 +6,5 @@ stelli
 nuzha
 andini
 shinta
-<<<<<<< HEAD
 aranea
-=======
 ariani
->>>>>>> master
